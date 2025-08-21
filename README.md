@@ -22,5 +22,4 @@ Instead of making the Strapi admin panel public, we recorded a short video showc
 - `/frontend` → React application
 - `/backend` → Strapi CMS
 
-   ```bash
-   git clone https://github.com/your-username/your-repo.git
+
