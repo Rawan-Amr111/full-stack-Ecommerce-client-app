@@ -5,8 +5,7 @@ This project is a fullstack web application built with **React** (frontend) and 
 ## 🚀 Tech Stack
 - **Frontend:** React, TypeScript, TailwindCSS / Shadcn (UI components)
 - **Backend:** Strapi (Headless CMS)
-- **Database:** SQLite / PostgreSQL (depending on config)
-- **Deployment:** Vercel (Frontend) & Render/Heroku/DigitalOcean (Backend)
+- 
 
 ## 🎥 Demo Video
 Instead of making the Strapi admin panel public, we recorded a short video showcasing the app's **features** and **functionality**.  
