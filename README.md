@@ -3,7 +3,7 @@
 This project is a fullstack web application built with **React** (frontend) and **Strapi** (backend CMS).
 
 ## 🚀 Tech Stack
-- **Frontend:** React, TypeScript, TailwindCSS / Shadcn (UI components)
+- **Frontend:** React, TypeScript, TailwindCSS / Chakra (UI components)
 - **Backend:** Strapi (Headless CMS)
 - 
 
